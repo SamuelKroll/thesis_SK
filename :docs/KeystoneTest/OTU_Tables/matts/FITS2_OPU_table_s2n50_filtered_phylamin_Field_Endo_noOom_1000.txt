@@ -1,0 +1,303 @@
+OTU	G.FITS2.18	G.FITS2.12	G.FITS2.20	G.FITS2.15	G.FITS2.19	G.FITS2.13	G.FITS2.11	C.FITS2.19	G.FITS2.17	C.FITS2.20	D.FITS2.17	G.FITS2.16	G.FITS2.14	E.FITS2.11	B.FITS2.10	B.FITS2.19	B.FITS2.20	B.FITS2.6	B.FITS2.8	B.FITS2.9	D.FITS2.19	D.FITS2.20	D.FITS2.18	taxonomy
+Species_2754	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__unidentified; s__Herpotrichiellaceae sp
+Species_340	0.0	0.0	1.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria
+Species_311	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	2.0	1.0	4.0	6.0	4.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Xenobotryosphaeria; s__Xenobotryosphaeria calamagrostidis
+Species_2460	31.0	90.0	523.0	112.0	74.0	3.0	3.0	0.0	2.0	0.0	0.0	292.0	491.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_834	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae
+Species_391	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+Species_2676	1.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Incertae sedis; g__Cephalosporium; s__Cephalosporium serrae var fuscum
+Species_2705	11.0	0.0	0.0	0.0	52.0	35.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_2237	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Incertae sedis; f__Incertae sedis; g__Sarcinomyces
+Species_444	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_39	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Incertae sedis; g__Sporobolomyces; s__Sporobolomyces coprosmae
+Species_2168	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1197	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Leptosphaeriaceae
+Species_2719	0.0	1.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1935	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Rhinocladiella; s__Rhinocladiella sp SH9
+Species_1517	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+Species_1991	2.0	0.0	2.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	1.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Phaeosphaeria; s__Phaeosphaeria phragmiticola
+Species_51	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_2258	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Incertae sedis; f__Plectosphaerellaceae; g__Plectosphaerella
+Species_2029	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Lasiosphaeriaceae; g__Podospora; s__Podospora glutinans
+Species_888	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	24.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Erysiphales; f__Erysiphaceae; g__Blumeria; s__Blumeria graminis
+Species_2075	1.0	0.0	0.0	1.0	30.0	1.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Phaeosphaeria; s__Phaeosphaeria sp
+Species_860	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Phaeosphaeria
+Species_1656	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__Pleosporales sp
+Species_1664	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__Pleosporales sp
+Species_191	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Trichocomaceae; g__Penicillium
+Species_262	0.0	0.0	15.0	0.0	2.0	0.0	0.0	2.0	0.0	2.0	0.0	0.0	6.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	6.0	0.0	k__Fungi; p__Basidiomycota; c__Incertae sedis; o__Malasseziales; f__Incertae sedis; g__Malassezia; s__Malassezia restricta
+Species_542	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales; f__Gnomoniaceae; g__Cryptosporella; s__Cryptosporella alni_sinuatae
+Species_170	0.0	0.0	0.0	0.0	2.0	6.0	0.0	76.0	0.0	5.0	16.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	40.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Incertae sedis; g__Myrothecium; s__Myrothecium sp HZ_6
+Species_1901	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	9.0	7.0	3.0	0.0	4.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Sclerotiniaceae; g__Botrytis; s__Botrytis caroliniana
+Species_155	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Crocicreas; s__Crocicreas sp F_171,704
+Species_387	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae; g__Mastigobasidium; s__Mastigobasidium sp
+Species_1557	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Cystofilobasidiaceae; g__Udeniomyces; s__Udeniomyces pannonicus
+Species_520	4.0	1.0	41.0	9.0	14.0	2.0	48.0	0.0	1.0	0.0	0.0	8.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Incertae sedis; g__Acremonium; s__Acremonium alternatum
+Species_1193	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_2642	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1421	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	228.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_2758	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+Species_1318	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_648	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	1.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Incertae sedis; g__Cryptococcus; s__Cryptococcus dimennae
+Species_642	0.0	1.0	0.0	0.0	4.0	0.0	0.0	13.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	1.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Ascochyta; s__Ascochyta sp
+Species_2683	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Phaeosphaeria; s__Phaeosphaeria juncicola
+Species_2665	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1459	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Amphisphaeriaceae
+Species_2673	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Filobasidiaceae; g__Cryptococcus; s__Cryptococcus adeliensis
+Species_326	17.0	10.0	8.0	0.0	11.0	46.0	25.0	140.0	0.0	66.0	0.0	0.0	62.0	88.0	29.0	0.0	4.0	16.0	17.0	73.0	1.0	498.0	3.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae
+Species_1165	0.0	2.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_1957	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae; g__Mastigobasidium; s__Mastigobasidium sp
+Species_552	0.0	5.0	2.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+Species_2505	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	1.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Verrucariales; f__Verrucariaceae; g__Verrucaria
+Species_1898	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__unidentified; g__unidentified; s__Botryosphaeriales sp
+Species_91	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Incertae sedis; f__Pseudeurotiaceae; g__Pseudeurotium; s__Pseudeurotium sp
+Species_2815	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_315	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Stagonospora; s__Stagonospora pseudovitensis
+Species_222	2.0	0.0	0.0	0.0	4.0	0.0	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Incertae sedis; g__Tetracladium
+Species_1504	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_281	274.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__fungal sp HNDC07
+Species_1851	28.0	44.0	1.0	8.0	43.0	30.0	4.0	55.0	1.0	139.0	0.0	7.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	1.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Articulospora; s__Articulospora sp
+Species_2630	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_2373	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Mycocentrospora; s__Mycocentrospora sp
+Species_1655	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis
+Species_2180	3.0	1.0	0.0	0.0	0.0	0.0	0.0	23.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	37.0	0.0	0.0	k__Fungi; p__Basidiomycota
+Species_546	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Incertae sedis; g__Dioszegia; s__Dioszegia buhagiarii
+Species_2580	3.0	4.0	0.0	0.0	6.0	3.0	0.0	127.0	0.0	9.0	0.0	3.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Leptosphaeriaceae; g__Leptosphaeria; s__Leptosphaeria sp
+Species_2601	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes
+Species_2599	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_319	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	16.0	0.0	0.0	1.0	1.0	18.0	1.0	5.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_2629	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	3.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium sp CBS 119875
+Species_2224	0.0	3.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1905	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_383	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	12.0	0.0	1.0	124.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae; g__Leucosporidiella; s__Leucosporidiella creatinivora
+Species_1477	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota
+Species_837	0.0	8.0	0.0	0.0	0.0	0.0	2.0	114.0	0.0	1.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	34.0	115.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae; g__Septoria
+Species_712	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_406	24.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_2312	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Incertae sedis; g__Rhodotorula
+Species_1880	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+Species_13	4.0	4.0	4.0	5.0	3.0	0.0	1.0	0.0	0.0	7.0	0.0	27.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinellus; s__Coprinellus micaceus
+Species_1647	3.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__Pleosporales sp
+Species_1553	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	28.0	0.0	0.0	0.0	51.0	1.0	2.0	3.0	0.0	1.0	5.0	1.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Cystofilobasidiaceae; g__Udeniomyces; s__Udeniomyces pannonicus
+Species_2161	2.0	0.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+Species_1303	0.0	0.0	1.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Microbotryales; f__unidentified; g__unidentified; s__Microbotryales sp
+Species_675	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Cucurbitariaceae; g__Pyrenochaetopsis; s__Pyrenochaetopsis leptospora
+Species_382	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	296.0	8.0	1.0	0.0	10.0	5.0	4.0	36.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae; g__Leucosporidium; s__Leucosporidium sp
+Species_1506	9.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Pyrenochaeta; s__Pyrenochaeta sp MUT 4382
+Species_1083	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	k__Fungi; p__Basidiomycota; c__Ustilaginomycetes; o__Ustilaginales; f__Ustilaginaceae; g__Pseudozyma; s__Pseudozyma sp Vega417
+Species_135	118.0	414.0	66.0	1.0	26.0	33.0	65.0	29.0	0.0	75.0	6.0	4.0	64.0	123.0	62.0	425.0	120.0	196.0	105.0	290.0	78.0	12.0	54.0	k__Fungi; p__Ascomycota
+Species_1974	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Cystofilobasidiaceae; g__unidentified; s__Cystofilobasidiaceae sp
+Species_2212	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Incertae sedis; g__Rhodotorula; s__Rhodotorula aurantiaca
+Species_1138	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Filobasidiaceae; g__Cryptococcus; s__Cryptococcus friedmannii
+Species_1267	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	105.0	17.0	0.0	108.0	1.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1419	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_2287	1.0	0.0	0.0	2.0	0.0	0.0	6.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+Species_64	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_881	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	36.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Incertae sedis; f__Plectosphaerellaceae; g__Plectosphaerella; s__Plectosphaerella citrulli
+Species_120	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Hypoxylon; s__Hypoxylon rubiginosum
+Species_2386	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Ascochyta; s__Ascochyta sp
+Species_2313	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Clitocybe; s__Clitocybe nebularis
+Species_1556	19.0	3.0	0.0	391.0	0.0	0.0	2.0	10.0	0.0	5.0	2.0	73.0	0.0	35.0	20.0	0.0	1.0	69.0	124.0	241.0	6.0	0.0	57.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Cystofilobasidiaceae; g__Udeniomyces; s__Udeniomyces pannonicus
+Species_1676	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_1388	0.0	3.0	0.0	0.0	0.0	2.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_346	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae
+Species_82	1.0	0.0	1.0	1.0	4.0	0.0	0.0	2.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	22.0	0.0	1.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Articulospora; s__Articulospora sp
+Species_1154	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	62.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Mycocentrospora; s__Mycocentrospora sp
+Species_1470	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	70.0	0.0	0.0	1.0	0.0	5.0	7.0	15.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Incertae sedis; g__Cryptococcus; s__Cryptococcus sp VP_2009b
+Species_2055	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Polyporaceae; g__Trametes
+Species_1933	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora; s__Cladophialophora minutissima
+Species_1053	10.0	3.0	0.0	1.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Tubaria; s__Tubaria hiemalis
+Species_615	1.0	0.0	0.0	1.0	10.0	0.0	4.0	1.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+Species_1077	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Massarinaceae; g__Massarina; s__Massarina sp JP_2013
+Species_293	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+Species_469	1.0	0.0	0.0	0.0	0.0	0.0	0.0	67.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae; g__Ceratobasidium; s__Ceratobasidium sp AG_A
+Species_1835	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Incertae sedis; g__Sporobolomyces
+Species_2044	0.0	5.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Verrucariales; f__Verrucariaceae
+Species_354	0.0	0.0	0.0	0.0	0.0	0.0	0.0	28.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria; s__Alternaria sp 4 IS_2011
+Species_1437	0.0	1.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_1217	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+Species_1964	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae; g__Mastigobasidium; s__Mastigobasidium sp
+Species_1948	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae; g__Mastigobasidium; s__Mastigobasidium sp
+Species_674	0.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+Species_957	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae
+Species_2596	18.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+Species_1037	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinaceae; g__Lalaria; s__Lalaria carpini
+Species_195	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Trichocomaceae; g__Aspergillus
+Species_1960	0.0	1.0	0.0	0.0	6.0	0.0	0.0	7.0	0.0	4.0	0.0	0.0	0.0	0.0	8.0	0.0	1.0	8.0	0.0	2.0	16.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae
+Species_2355	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+Species_1206	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	24.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Phaeosphaeria; s__Phaeosphaeria sp
+Species_1680	11.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+Species_1139	0.0	17.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Filobasidiaceae; g__Cryptococcus; s__Cryptococcus terricola
+Species_1194	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_1891	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Incertae sedis; g__Pilidium; s__Pilidium sp
+Species_2544	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	1.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Verrucariales; f__Verrucariaceae; g__Verrucaria
+Species_912	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_95	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_2509	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	80.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Verrucariales; f__Verrucariaceae; g__Verrucaria
+Species_65	1.0	0.0	0.0	0.0	13.0	0.0	3.0	1.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+Species_203	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Mycocentrospora; s__Mycocentrospora sp
+Species_1093	6.0	0.0	2.0	0.0	51.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1199	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Leptosphaeriaceae; g__Leptosphaeria; s__Leptosphaeria sp
+Species_86	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Incertae sedis; g__Rhodotorula; s__Rhodotorula bacarum
+Species_1412	5.0	22.0	0.0	0.0	0.0	13.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_339	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria
+Species_2631	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Teloschistales; f__Teloschistaceae; g__Caloplaca
+Species_1422	1.0	4.0	0.0	0.0	1.0	2.0	7.0	0.0	0.0	2.0	19.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_949	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Ustilaginomycetes; o__Ustilaginales; f__Ustilaginaceae; g__Pseudozyma
+Species_318	0.0	1.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	1.0	0.0	0.0	1.0	4.0	3.0	3.0	1.0	4.0	4.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Xenobotryosphaeria; s__Xenobotryosphaeria calamagrostidis
+Species_1351	3.0	0.0	0.0	1.0	8.0	0.0	20.0	0.0	0.0	0.0	63.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Incertae sedis; f__Glomerellaceae; g__Colletotrichum
+Species_164	0.0	0.0	0.0	0.0	0.0	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Ascobolaceae; g__unidentified; s__Ascobolaceae sp
+Species_1273	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Incertae sedis; g__Rhodotorula; s__Rhodotorula pinicola
+Species_451	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	k__Fungi; p__Chytridiomycota; c__Chytridiomycetes; o__Rhizophydiales
+Species_2448	4.0	8.0	73.0	6.0	29.0	3.0	1.0	49.0	0.0	128.0	6.0	12.0	39.0	7.0	2.0	0.0	0.0	3.0	1.0	3.0	8.0	14.0	97.0	k__Fungi; p__Ascomycota
+Species_325	1.0	16.0	22.0	0.0	0.0	21.0	8.0	3.0	0.0	2.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	2.0	1.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria; s__Alternaria dianthicola
+Species_1233	0.0	0.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_1171	0.0	0.0	0.0	2.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified
+Species_1123	3.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Incertae sedis; g__Bulleromyces; s__Bulleromyces albus
+Species_234	0.0	0.0	0.0	0.0	2.0	0.0	3.0	0.0	0.0	18.0	0.0	0.0	0.0	60.0	0.0	8.0	0.0	18.0	1.0	0.0	9.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Filobasidiaceae; g__Cryptococcus; s__Cryptococcus oeirensis
+Species_1903	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Verrucariales; f__Verrucariaceae; g__Verrucaria
+Species_1381	2.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Gibberella; s__Gibberella avenacea
+Species_2054	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Ramalinaceae; g__Bacidina; s__Bacidina arnoldiana
+Species_193	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Trichocomaceae; g__Penicillium; s__Penicillium adametzii
+Species_410	1.0	0.0	1.0	0.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	21.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Incertae sedis; f__Plectosphaerellaceae; g__Plectosphaerella; s__Plectosphaerella citrulli
+Species_430	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Lasiosphaeriaceae; g__Podospora; s__Podospora communis
+Species_1446	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1424	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_1144	3.0	0.0	1.0	0.0	12.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes
+Species_1723	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	144.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Incertae sedis; g__Cryptococcus; s__Cryptococcus laurentii
+Species_1349	0.0	0.0	0.0	0.0	0.0	0.0	0.0	29.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Pezizomycetes
+Species_22	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Zygomycota; c__Incertae sedis; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+Species_205	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Cystofilobasidiaceae; g__unidentified; s__Cystofilobasidiaceae sp
+Species_1309	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_975	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Incertae sedis; g__Acremonium; s__Acremonium sp 2 J12
+Species_1677	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_1893	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Incertae sedis; g__Cryptococcus; s__Cryptococcus laurentii
+Species_1959	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae
+Species_515	0.0	0.0	2.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Incertae sedis; g__Acremonium; s__Acremonium alternatum
+Species_1242	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified
+Species_1107	1.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	2.0	3.0	0.0	29.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium oxysporum
+Species_1208	4.0	15.0	1.0	16.0	0.0	4.0	5.0	0.0	0.0	0.0	0.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__Pleosporales sp 473H
+Species_724	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1195	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	29.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Phaeosphaeria; s__Phaeosphaeria pontiformis
+Species_333	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria
+Species_446	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis
+Species_1238	0.0	2.0	0.0	3.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__Pleosporales sp 473H
+Species_1559	1.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota
+Species_1860	4.0	2.0	6.0	0.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	k__Fungi; p__Basidiomycota
+Species_393	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	11.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Xylaria
+Species_2276	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Chaetomiaceae
+Species_658	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1128	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Hypocrea; s__Hypocrea virens
+Species_1771	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Dothioraceae; g__Aureobasidium; s__Aureobasidium sp
+Species_946	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Incertae sedis; g__unidentified; s__Helotiales sp
+Species_828	0.0	0.0	0.0	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	2.0	0.0	0.0	2.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Incertae sedis; g__Cryptococcus; s__Cryptococcus victoriae
+Species_1920	1.0	0.0	0.0	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Incertae sedis
+Species_1404	0.0	3.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_1531	5.0	16.0	4.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Davidiellaceae; g__Cladosporium
+Species_1333	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Lasiosphaeriaceae; g__Podospora; s__Podospora communis
+Species_1725	53.0	19.0	5.0	190.0	82.0	65.0	4.0	67.0	0.0	20.0	24.0	299.0	8.0	0.0	12.0	14.0	71.0	0.0	10.0	31.0	225.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Incertae sedis; g__Tetracladium; s__Tetracladium furcatum
+Species_2619	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1378	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_524	2.0	0.0	9.0	3.0	2.0	0.0	10.0	0.0	0.0	0.0	0.0	2.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Incertae sedis; g__Acremonium
+Species_377	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae
+Species_2050	0.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Erysiphales; f__Erysiphaceae; g__Golovinomyces
+Species_1650	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	8.0	2.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__Pleosporales sp
+Species_768	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	24.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17.0	1.0	1.0	20.0	3.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Cystofilobasidiaceae; g__Cystofilobasidium
+Species_338	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae
+Species_2334	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	3.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales; f__Valsaceae; g__Valsa
+Species_623	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_878	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_363	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1234	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	21.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_2226	0.0	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	2.0	0.0	k__Fungi; p__Ascomycota
+Species_2661	2.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_397	0.0	2.0	0.0	1.0	2.0	0.0	4.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_2717	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_2688	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Incertae sedis; f__Incertae sedis; g__Leptospora; s__Leptospora rubella
+Species_2606	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Saccharomycetes; o__Saccharomycetales; f__Incertae sedis
+Species_2060	2.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+Species_1941	1.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_297	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Stagonospora; s__Stagonospora sp TA26_24
+Species_2403	1.0	0.0	0.0	0.0	0.0	5.0	6.0	2.0	0.0	61.0	0.0	0.0	0.0	0.0	11.0	0.0	6.0	3.0	0.0	1.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__Pleosporales sp 1 MU_2012
+Species_2261	0.0	1.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_2498	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	18.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Verrucariales; f__Verrucariaceae; g__Verrucaria
+Species_219	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Antennulariellaceae; g__Heteroconium; s__Heteroconium sp 115_114E
+Species_1170	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified
+Species_925	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	27.0	0.0	0.0	0.0	2.0	5.0	1.0	9.0	1.0	0.0	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Protomycetaceae; g__Protomyces; s__Protomyces inouyei
+Species_1896	1.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__fungal sp MT0833
+Species_1169	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_331	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria
+Species_2365	0.0	1.0	5.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1472	1.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Exophiala; s__Exophiala opportunistica
+Species_2052	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Incertae sedis; g__Cryptococcus; s__Cryptococcus aff amylolyticus AS 22501
+Species_23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes
+Species_1445	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota
+Species_2143	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__Chaetothyriales sp M_Mo9
+Species_460	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	3.0	1.0	k__Fungi; p__Basidiomycota; c__Ustilaginomycetes; o__Ustilaginales; f__Ustilaginaceae; g__Pseudozyma; s__Pseudozyma sp Y3_09
+Species_324	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	273.0	0.0	0.0	0.0	0.0	2.0	1.0	0.0	1.0	1.0	16.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria
+Species_535	1.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Incertae sedis; g__Tetracladium
+Species_683	1.0	0.0	12.0	0.0	8.0	1.0	0.0	0.0	983.0	0.0	0.0	1.0	7.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Entylomatales; f__unidentified; g__unidentified; s__Entylomatales sp
+Species_765	0.0	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Incertae sedis; f__Apiosporaceae; g__Arthrinium; s__Arthrinium pseudosinense
+Species_300	0.0	0.0	0.0	70.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	13.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Cystofilobasidiaceae; g__Udeniomyces; s__Udeniomyces pannonicus
+Species_496	0.0	0.0	0.0	7.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes
+Species_1699	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Capronia; s__Capronia coronata
+Species_2244	0.0	0.0	0.0	0.0	0.0	0.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Teloschistales; f__Teloschistaceae; g__Caloplaca; s__Caloplaca soralifera
+Species_265	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+Species_2012	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleomassariaceae
+Species_1884	0.0	0.0	0.0	2.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_672	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	5.0	1.0	0.0	0.0	3.0	0.0	0.0	1.0	3.0	1.0	6.0	269.0	16.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae
+Species_2035	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Incertae sedis; f__Plectosphaerellaceae; g__Plectosphaerella; s__Plectosphaerella citrulli
+Species_2685	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_2238	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Incertae sedis; f__Incertae sedis; g__Sarcinomyces; s__Sarcinomyces sp MA 4705
+Species_251	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	164.0	1.0	k__Fungi; p__Ascomycota; c__Incertae sedis; o__Incertae sedis; f__Incertae sedis; g__Zymoseptoria
+Species_2803	2.0	0.0	0.0	0.0	0.0	0.0	1.0	3.0	0.0	1.0	0.0	0.0	9.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+Species_920	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_887	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Erysiphales; f__Erysiphaceae; g__Blumeria; s__Blumeria graminis
+Species_1491	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Incertae sedis; f__Pseudeurotiaceae; g__Pseudogymnoascus; s__Pseudogymnoascus roseus
+Species_610	8.0	4.0	8.0	0.0	8.0	1.0	0.0	0.0	0.0	0.0	0.0	16.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Agaricaceae; g__Lycoperdon; s__Lycoperdon pyriforme
+Species_2633	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1683	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	9.0	1.0	17.0	3.0	2.0	0.0	4.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Incertae sedis; g__Sporobolomyces; s__Sporobolomyces roseus
+Species_1452	4.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Teloschistales; f__Teloschistaceae
+Species_2087	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Peniophoraceae; g__Peniophora
+Species_2546	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Verrucariales; f__Verrucariaceae; g__Verrucaria
+Species_2329	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	k__Fungi; p__Basidiomycota; c__Ustilaginomycetes; o__Ustilaginales; f__Ustilaginaceae; g__Pseudozyma; s__Pseudozyma flocculosa
+Species_2656	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	98.0	12.0	7.0	0.0	14.0	2.0	2.0	10.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Incertae sedis; g__Rhodotorula; s__Rhodotorula hordea
+Species_2625	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Dendryphion; s__Dendryphion sp
+Species_921	181.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Leptosphaerulina; s__Leptosphaerulina chartarum
+Species_1849	35.0	187.0	71.0	138.0	370.0	685.0	614.0	42.0	0.0	10.0	599.0	14.0	8.0	4.0	706.0	248.0	712.0	428.0	510.0	120.0	10.0	9.0	735.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Didymella; s__Didymella vitalbina
+Species_93	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Incertae sedis; g__Rhodotorula; s__Rhodotorula graminis
+Species_2429	1.0	13.0	58.0	12.0	29.0	3.0	0.0	4.0	1.0	13.0	0.0	19.0	80.0	0.0	77.0	9.0	3.0	111.0	69.0	109.0	0.0	4.0	2.0	k__Fungi; p__Ascomycota
+Species_67	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Hyaloscyphaceae; g__Mycoarthris; s__Mycoarthris corallina
+Species_1962	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae; g__Mastigobasidium; s__Mastigobasidium sp
+Species_327	0.0	0.0	2.0	0.0	0.0	0.0	43.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Ulocladium; s__Ulocladium sp JH14
+Species_1392	0.0	1.0	0.0	0.0	0.0	3.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_2819	1.0	18.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_622	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae
+Species_1881	5.0	0.0	0.0	0.0	1.0	0.0	0.0	22.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae
+Species_1341	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Filobasidiaceae; g__Cryptococcus; s__Cryptococcus oeirensis
+Species_893	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	13.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Incertae sedis; g__Dioszegia; s__Dioszegia hungarica
+Species_2737	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__fungal sp E_000535771
+Species_143	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	3.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Trichosporonales; f__Trichosporonaceae; g__Trichosporon; s__Trichosporon porosum
+Species_2323	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1497	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	91.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Incertae sedis; g__Dioszegia; s__Dioszegia buhagiarii
+Species_2030	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+Species_1966	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae; g__Leucosporidiella
+Species_1665	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__Pleosporales sp
+Species_1652	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_863	1.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_2481	0.0	1.0	3.0	0.0	1.0	0.0	0.0	4.0	0.0	0.0	0.0	3.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Incertae sedis; o__Malasseziales; f__Incertae sedis; g__Malassezia; s__Malassezia globosa
+Species_531	0.0	0.0	0.0	0.0	3.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Hyaloscyphaceae; g__Discocistella; s__Discocistella grevillei
+Species_643	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Incertae sedis; g__Mycocentrospora
+Species_1951	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	1.0	0.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae
+Species_1475	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Dothioraceae; g__Dothiora; s__Dothiora rhamni_alpinae
+Species_1187	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae
+Species_2193	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Sporormiaceae; g__Preussia; s__Preussia flanaganii
+Species_676	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Incertae sedis; g__Rhodotorula; s__Rhodotorula pinicola
+Species_1444	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	93.0	0.0	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Pucciniastrum; s__Pucciniastrum areolatum
+Species_1883	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Dothioraceae; g__Aureobasidium; s__Aureobasidium pullulans
+Species_2671	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+Species_2417	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota
+Species_1323	0.0	5.0	1.0	2.0	3.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+Species_1100	0.0	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Incertae sedis; g__Microdochium
+Species_1377	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium tricinctum
+Species_1691	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	k__Fungi; p__Ascomycota

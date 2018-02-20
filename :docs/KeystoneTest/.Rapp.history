@@ -1,0 +1,874 @@
+V3
+adonis(tab5.1~s3$Line, method="bray", permutations=10000)
+tab2<-read.table("~/Documents/R analyses/ITS2_tab.txt", h=T)#
+tab2.1<-log(tab2+1,10)#
+#
+adonis(tab2.1~s3$Line, method="bray", permutations=10000)
+s3
+tab2
+Otu0002	Otu0003	Otu0004	Otu0005	Otu0008	Otu0009	Otu0010	Otu0011	Otu0013	Otu0014	Otu0015	Otu0016	Otu0017	Otu0018	Otu0019	Otu0021	Otu0022	Otu0023	Otu0024	Otu0026	Otu0027	Otu0028	Otu0029	Otu0030	Otu0031	Otu0032	Otu0033	Otu0034	Otu0035	Otu0036	Otu0037	Otu0038	Otu0039	Otu0040	Otu0041	Otu0042	Otu0044	Otu0045	Otu0046	Otu0047	Otu0049	Otu0050	Otu0052	Otu0053	Otu0054	Otu0055	Otu0060	Otu0061	Otu0062	Otu0063	Otu0064	Otu0065	Otu0066	Otu0067	Otu0069	Otu0070	Otu0072	Otu0074	Otu0076	Otu0077	Otu0079	Otu0080	Otu0082	Otu0083	Otu0085	Otu0087	Otu0088	Otu0090	Otu0091	Otu0092	Otu0093	Otu0094	Otu0095	Otu0096	Otu0098	Otu0099	Otu0100	Otu0104	Otu0107	Otu0108	Otu0109	Otu0110	Otu0111	Otu0112	Otu0113	Otu01150	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	41	32	0	0	0	0	0	26	0	0	0	16	0	21	0	0	0	0	0	0	0	0	0	20	0	15	0	0	0	0	0	11	0	13	7	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	50	29	0	0	0	0	0	27	0	0	0	22	0	31	0	0	0	0	0	0	0	0	0	20	0	18	0	0	0	0	0	17	0	17	12	0	0	0	0	0	0	0	10	0
+0	0	0	0	0	0	0	4	0	0	1	0	0	0	0	40	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	86	71	67	0	0	0	0	0	56	0	0	0	62	0	64	0	0	0	0	0	0	0	0	0	34	0	41	0	0	0	0	0	28	0	29	25	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	13	12	0	0	1	0	0	10	0	0	0	8	0	8	0	0	0	0	0	0	0	0	0	6	0	8	0	0	0	0	0	5	0	2	4	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2	0	0	0	0	83	0	0	20	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	6	10	0	0	0	0	0	4	0	0	0	8	0	14	0	0	0	0	0	0	0	0	0	2	0	9	0	0	0	0	0	3	0	7	3	0	0	0	0	0	0	0	3	0	0	0	0	144	0	0	0	0	0	0	0	0	0	0	0	00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	19	19	0	0	0	0	0	17	0	0	0	14	0	13	0	0	0	0	0	0	0	0	0	11	0	13	0	0	0	0	0	4	0	5	7	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	30	0	0	1240	0	2179	2043	0	0	1806	0	1731	0	0	0	0	0	0	0	0	0	0	842	0	0	210	235	223	0	0	0	0	0	198	0	0	0	176	0	149	0	0	0	0	0	0	0	0	0	98	0	90	0	0	0	0	0	80	234	71	84	0	0	0	0	0	0	154	51	0	0	0	0	0	0	0	0	39	0	0	1	0	0	0	0	210	0	0	550	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	9	1
+1	0	0	18	0	0	5	0	0	0	6	0	8	0	0	0	0	0	0	0	0	0	3	0	2	0	0	0	0	0	4	0	3	3	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	2	70	0	3	0	0	0	0	00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	6	0	0	524	1	0	4	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	00	0	0	5509	0	87	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	17	18	0	0	0	0	0	22	0	0	0	15	0	22	0	0	0	0	0	0	0	0	0	10	0	10	0	0	0	0	0	7	0	5	6	0	0	0	0	0	6	0	5	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	60	0	0	1699	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	9	9	0	0	0	0	0	4	0	0	0	7	0	8	0	0	0	0	0	0	0	0	0	4	0	3	0	0	0	0	0	4	0	3	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	4	0	0	0	0	0705	3968	0	0	563	0	0	1266	0	0	0	0	1697	0	0	0	0	1347	0	1075	0	873	0	805	0	46	44	37	0	0	0	598	0	20	0	0	0	32	0	26	0	456	0	413	0	0	371	0	338	25	0	17	0	291	263	0	0	7	0	12	13	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	8	0	0	0	0	0	83	80	50	1	0	0	1	0	0	0	0	0	0	0	0	1628	0	0	0	0	0	0	0	0	0	0	0	25	22	13	0	630	583	0	592	19	548	0	0	10	501	10	494	0	0	0	0	0	0	0	0	11	0	7	294	0	0	0	0	11	0	4	4
+0	0	0	0	0	0	0	6	0	0	146	0	0	0	0	0	2	22	0	0	0	0	0	0	112341	8604	11076	2	1763	0	0	758	1735	0	1744	0	0	0	1550	1420	1381	0	1276	0	991	0	0	0	734	129	138	143	549	0	0	0	0	119	0	545	0	102	0	86	0	0	400	0	409	402	0	346	0	70	13	58	0	0	0	0	244	43	0	47	37	0	0	0	189	178	171	0	26	153	151	0	144	0	0	123	0	20	0	0	0	84	0	0	0	120	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	4	88	0	0	0	0	1	0	0	0	2	0	4	0	0	0	0	0	0	0	0	0	3	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	114	19	0	0	0	0	0	2	135	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	20	13	18	0	0	0	0	0	16	0	0	0	16	0	12	0	0	19	0	0	0	0	0	0	8	311	5	0	0	0	252	0	9	0	8	6	209	196	195	0	0	0	0	3	0	0	0	0	0	134	0	112	4	0	88	0	0	0	0	0
+tab2<-read.table("~/Documents/R analyses/ITS2_tab.txt", h=T)#
+tab2.1<-log(tab2+1,10)#
+#
+adonis(tab2.1~s3$Line, method="bray", permutations=10000)
+pca2<-dudi.pco(vegdist(tab2.1, method="bray"), scannf=F, nf=100)
+s.class(pca2$li, s5$Line, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=0.5, cstar=0, axesell=0, col=wes_palette(n=4, name="GrandBudapest"),label = levels(s5$Line), clabel = 1, sub = "Fungi ITS2 ")
+tab1<-read.table("~/Documents/R analyses/ITS1_tab.txt", h=T)#
+tab1.1<-log(tab1+1,10)
+adonis(tab1.1~s3$Line, method="bray", permutations=10000)
+pca1<-dudi.pco(vegdist(tab1.1, method="bray"), scannf=F, nf=100)#
+s.class(pca1$li, s5$Line, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=0.5, cstar=0, axesell=0, col=wes_palette(n=4, name="GrandBudapest"),label = levels(s5$Line), clabel = 1, sub = "Fungi ITS1 ")
+adonis(tab1.1~s3$Line, method="bray", permutations=10000, binary+T)
+adonis(tab1.1~s3$Line, method="bray", permutations=10000, binary=T)
+adonis(tab3.1~s3$Line, method="bray", permutations=10000, binary=T)
+adonis(tab5.1~s3$Line, method="bray", permutations=10000, binary=T)
+adonis(tab2.1~s3$Line, method="bray", permutations=10000, binary=T)
+adonis(tab1.1~s3$Line, method="bray", permutations=10000, binary=T)
+tab_otu<-read.table("~/Documents/R analyses/otu_Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+s_otu<-read.table("~/Documents/R analyses/s_otu_Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+otu<-tab_otu[1:52]#
+library(ade4)#
+library(vegan)#
+library(wesanderson)#
+#
+pca1<-dudi.pco(vegdist(otu, method="bray"), scannf=F)
+YSSC<-interaction(s_otu$Year,s_otu$Season,s_otu$Site,s_otu$Compartment)#
+SC<-interaction(s_otu$Site,s_otu$Compartment)#
+s2<-cbind(s_otu,YSSC,SC)#
+s2$Year<-factor(s2$Year)#
+#
+pal<-wes_palette(72, name = "GrandBudapest", type = "continuous")
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=0.5, cstar=0, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+par(mfrow=c(2,2))
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(20, name = "GrandBudapest", type = "continuous")
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca1$li, s2$Compartment, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+names(S2)
+names(s2)
+names(otu)
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca1$li, s2$Compartment, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+> pca1<-dudi.pco(vegdist(otu, method="bray"))
+pca1<-dudi.pco(vegdist(otu, method="bray"))
+s.class(pca1$li, s2$Compartment, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca1$li, s2$Compartment, xax=2, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca1$li, s2$SC, xax=2, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(20, name = "moonrise3", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(20, name = "Moonrise3", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(20, name = "Darjeeling1", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(20, name = "Darjeeling1", type = "continuous")
+wes_palette("Darjeeling1")
+wes_palette("Darjeeling2")
+wes_palette("Darjeeling")
+pal<-wes_palette(20, name = "Darjeeling", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Darjeeling", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+adonis(otu~s2$Compartment*s2$Site*s2$Season*s2$Year, method="bray", permutations=1000)
+adonis(otu~s2$Compartment*s2$Site*s2$Year*s2Season, method="bray", permutations=1000)
+adonis(otu~s2$Compartment*s2$Site*s2$Year*s2$Season, method="bray", permutations=1000)
+summary(s2$YSSC)
+otu2<-otu[which(s2$Site!="PFN"&s$Site!="K6911"),]#
+s_otu2<-s2[which(s2$Site!="PFN"&s$Site!="K6911"),]
+otu2<-otu[which(s2$Site!="PFN"&s2$Site!="K6911"),]#
+s_otu2<-s2[which(s2$Site!="PFN"&s2$Site!="K6911"),]
+otu2
+s_otu2
+summary(s_otu2$YSSC)
+attach(s_otu2)
+summary(s_otu2$YSSC)
+s_otu2<-s2[which(Site!="PFN"&Site!="K6911"),]
+summary(s_otu2$YSSC)
+s_otu2<-s_otu[which(s_otu$Site!="PFN"&s_otu$Site!="K6911"),]
+s_otu2
+summary(s_otu2$YSSC)
+YSSC<-interaction(s_otu$Year,s_otu$Season,s_otu$Site,s_otu$Compartment)#
+SC<-interaction(s_otu$Site,s_otu$Compartment)#
+s2<-cbind(s_otu,YSSC,SC)#
+s2$Year<-factor(s2$Year)
+otu2<-otu[which(s2$Site!="PFN"&s2$Site!="K6911"),]#
+s_otu2<-droplevels(s2[which(s2$Site!="PFN"&s2$Site!="K6911"),])
+s_otu2
+summary(s2$YSSC)
+summary(s_otu$YSSC)
+summary(s_otu2$YSSC)
+adonis(otu2~s_otu2$Compartment*s_otu2$Site*s_otu2$Season*s_otu2$Year, method="bray", permutations=1000)
+adonis(otu2~s_otu2$Compartment*s_otu2$Site*s_otu2$Year*s_otu2$Season, method="bray", permutations=1000)
+adonis(otu2~s_otu2$YSSC, method="bray", permutations=1000)
+adonis(otu2~s_otu2$YSSC, method="bray", binary=T, permutations=1000)
+levels(s_otu2$YSSC)
+write.table(aggregate(otu, list(s2$YSSC), mean), file="52PseudoOTU_means_Cond_010817",quote=F)
+tab_otu1<-read.table("~/Documents/R analyses/otu_Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+tab_otu<-log((tab_otu1+0.000005),10)#
+s_otu<-read.table("~/Documents/R analyses/s_otu_Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+otu<-tab_otu[1:52]#
+library(ade4)#
+library(vegan)#
+library(wesanderson)#
+#
+pca1<-dudi.pco(vegdist(otu, method="bray"), scannf=F)#
+YSSC<-interaction(s_otu$Year,s_otu$Season,s_otu$Site,s_otu$Compartment)#
+SC<-interaction(s_otu$Site,s_otu$Compartment)#
+s2<-cbind(s_otu,YSSC,SC)#
+s2$Year<-factor(s2$Year)#
+#
+pal<-wes_palette(11, name = "Darjeeling", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+#
+adonis(otu~s2$Compartment*s2$Site*s2$Season*s2$Year, method="bray", permutations=1000)
+tab<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+s<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/s_Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+#
+tab1<-log((tab+0.000005),10)#
+#
+YSSC<-interaction(s$Year,s$Season,s$Site,s$Compartment)#
+SC<-interaction(s$Site,s$Compartment)#
+#
+tab.s<-cbind(s,YSSC,SC)#
+#
+write.table(aggregate(tab, list(tab.s$YSSC), mean), file="52PseudoOTU_meanRelab_Cond_010817",quote=F)
+write.table(tab.s, file="treat_52PseudoOTU_meanRelab_Cond_010817",quote=F)
+tab<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+s<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/s_Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+#
+tab1<-log((tab+0.000005),10)#
+#
+YSSC<-interaction(s$Year,s$Season,s$Site,s$Compartment)#
+SC<-interaction(s$Site,s$Compartment)#
+tab.s<-cbind(s,YSSC,SC)
+write.table(aggregate(tab, list(tab.s$YSSC), mean), file="51PseudoOTU_meanRelab_Cond_020817",quote=F)#
+write.table(tab.s, file="treat_51PseudoOTU_meanRelab_Cond_020817",quote=F)
+tab2<-cbind(s,YSSC,SC,tab1$Total)
+names(tab2)
+tab2<-cbind(s,YSSC,SC,tab1$Total)#
+colnames(tab2)[16]<-"Pseudo" ###this is super important if not he gets "tab1$Total" from tab 1 and the factors from tab2 so he breaks the links between the variables in tab2#####
+tab2$Year<-factor(tab2$Year)
+shapiro.test(tab2$Pseudo)
+plot(density(tab2$Pseudo))
+tab3<-tab2[which(s$Site!="PFN"&s$Site!="K6911"),]
+aggregate(tab3$Pseudo~tab3$YSSC,FUN=shapiro.test)
+bartlett.test(tab3$Pseudo~tab3$YSSC)
+summary(aov(tab3$Pseudo~tab3$Compartment*tab3$Site*tab3$Season*tab3$Year))
+tames(tab)
+names(tab)
+tab<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+s<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/s_Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+#
+tab1<-log((tab+0.000005),10)#
+#
+YSSC<-interaction(s$Year,s$Season,s$Site,s$Compartment)#
+SC<-interaction(s$Site,s$Compartment)#
+tab.s<-cbind(s,YSSC,SC)#
+#
+### export table for the heat map figure ####
+write.table(aggregate(tab, list(tab.s$YSSC), mean), file="51PseudoOTU_meanRelab_Cond_020817",quote=F)#
+write.table(tab.s, file="treat_51PseudoOTU_meanRelab_Cond_020817",quote=F)
+names(tab)
+tab2<-cbind(s,YSSC,SC,tab1$Total)#
+colnames(tab2)[16]<-"Pseudo" ###this is super important if not he gets "tab1$Total" from tab 1 and the factors from tab2 so he breaks the links between the variables in tab2#####
+tab2$Year<-factor(tab2$Year) ###to make sure he sees year as a factor and not a variable####
+shapiro.test(tab2$Pseudo)
+plot(density(tab2$Pseudo))
+tab3<-tab2[which(s$Site!="PFN"&s$Site!="K6911"),]
+aggregate(tab3$Pseudo~tab3$YSSC,FUN=shapiro.test)
+bartlett.test(tab3$Pseudo~tab3$YSSC)
+summary(aov(tab3$Pseudo~tab3$Compartment*tab3$Site*tab3$Season*tab3$Year))
+wilcox.test(tab3$Pseudo~tab3$Season)
+wilcox.test(tab3$Pseudo~tab3$Compartment)
+aggregate(tab3$Pseudo~tab3$Compartment, FUN=mean)
+summary(aov(tab2$Pseudo~tab2$Compartment*tab2$Site*tab2$Season))
+library(ggplot2)#
+#
+#re order sites# #
+tab2$Site<-factor(tab2$Site, levels=c("JUG","WH","ERG","EY","K6911","PFN"))#
+#
+#rename compartments for nicer graphics#
+levels(tab2$Compartment)<-c("Endophytes", "Epiphytes")#
+#
+###Overall abu#
+plot1<-ggplot(tab2, aes(x=Site, y=Pseudo))+geom_boxplot(aes(colour=factor(Site)),notch=F)+facet_grid(Season~Compartment)+theme(axis.text.x=element_text(angle=90),legend.position="none")+scale_colour_manual(values = c("cyan3","darkorchid1","coral2","deeppink","black","black"))+geom_jitter(width = 0.2, aes(colour=factor(Site)))+labs(y="Pseudomonas relative abundance - Log10(x + 10-5)")
+plot1
+##Endo vs epi for each season###
+plot2<-ggplot(tab2, aes(x=Compartment, y=Pseudo))+geom_boxplot(aes(colour=factor(Compartment)),notch=F)+facet_grid(Season~.)+theme(axis.text.x=element_text(angle=0),legend.position="none")+scale_colour_manual(values = c("chartreuse3","seagreen"))+geom_jitter(width = 0.2, aes(colour=factor(Compartment)))+labs(y="Pseudomonas relative abundance - Log10(x + 10-5)")
+plot2
+SsC<-interaction(tab2$Season,tab2$Compartment)#
+#
+tab4<-cbind(SsC,tab2)#
+#
+aggregate(tab4$Pseudo~tab4$SsC, FUN=mean)
+wilcox.test(tab4$Pseudo[tab4$SsC=="Fall.Endophytes"], tab4$Pseudo[tab4$SsC=="Fall.Epiphytes"])
+wilcox.test(tab4$Pseudo[tab4$SsC=="Spring.Endophytes"], tab4$Pseudo[tab4$SsC=="Spring.Epiphytes"])
+library(gridExtra)#
+library(grid)#
+library(lattice)#
+#
+plot12<-grid.arrange(plot1, plot2, layout_matrix =rbind(c(1,1,1,1,1,2,2)))
+/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/otu_Pseudo_dgc99_310717.txt
+tab4
+tab_otu<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/otu_Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+s_otu<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/s_otu_Pseudo_dgc99_310717.txt", h=T, sep='\t')
+names(tab_otu)
+otu<-tab_otu[1:51]#
+library(ade4)#
+library(vegan)#
+library(wesanderson)#
+#
+pca1<-dudi.pco(vegdist(otu, method="bray"), scannf=F)
+YSSC<-interaction(s_otu$Year,s_otu$Season,s_otu$Site,s_otu$Compartment)#
+SC<-interaction(s_otu$Site,s_otu$Compartment)#
+s2<-cbind(s_otu,YSSC,SC)#
+s2$Year<-factor(s2$Year)#
+#
+pal<-wes_palette(11, name = "Darjeeling", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca1$li, s2$SC, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+otu<-tab_otu[1:51]#
+library(ade4)#
+library(vegan)#
+library(wesanderson)#
+#
+pca1<-dudi.pco(vegdist(otu, method="bray"))
+s.class(pca1$li, s2$SC, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s_otu
+s.class(pca1$li, s2$Run, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca1$li, s2$SC, xax=2, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+adonis(otu~s2$Compartment*s2$Site*s2$Season*s2$Year, method="bray", permutations=1000)
+otu2<-otu[which(s2$Site!="PFN"&s2$Site!="K6911"),]#
+s_otu2<-droplevels(s2[which(s2$Site!="PFN"&s2$Site!="K6911"),])#
+##for all these n=3-8, where it is possible to do proper statistics####
+adonis(otu2~s_otu2$Compartment*s_otu2$Site*s_otu2$Year*s_otu2$Season, method="bray", permutations=1000)
+adonis(otu2~s_otu2$YSSC, method="bray", permutations=1000)
+adonis(otu2~s_otu2$YSSC, method="bray", binary=T, permutations=1000)
+Df SumsOfSqs MeanSqs F.Model      R2   Pr(>F)    #
+s_otu2$YSSC  47    27.488 0.58486  2.3641 0.33058 0.000999 ***#
+Residuals   225    55.663 0.24739         0.66942             #
+Total       272    83.151                 1.00000             #
+---#
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+adonis(otu2~s_otu2$YSSC, method="bray", binary=T, permutations=1000)
+otu2_endo<-otu2[which(s_otu2$Compartment="Endophyte"),]#
+otu2_epi<-otu2[which(s_otu2$Compartment="Epiphyte"),]#
+#
+s_otu2_endo<-droplevels(s_otu2[which(s_otu2$Compartment="Endophyte"),])#
+s_otu2_epi<-droplevels(s_otu2[which(s_otu2$Compartment="Epiphyte"),])
+otu2_endo<-otu2[which(s_otu2$Compartment=="Endophyte"),]#
+otu2_epi<-otu2[which(s_otu2$Compartment=="Epiphyte"),]#
+#
+s_otu2_endo<-droplevels(s_otu2[which(s_otu2$Compartment=="Endophyte"),])#
+s_otu2_epi<-droplevels(s_otu2[which(s_otu2$Compartment=="Epiphyte"),])
+pca2<-dudi.pco(vegdist(otu2_endo, method="bray"))
+otu2_endo
+s_otu2
+otu2
+names(s_otu2)
+otu2_endo<-otu2[which(s_otu2$Compartment=="Endo"),]#
+otu2_epi<-otu2[which(s_otu2$Compartment=="Epi"),]#
+#
+s_otu2_endo<-droplevels(s_otu2[which(s_otu2$Compartment=="Endo"),])#
+s_otu2_epi<-droplevels(s_otu2[which(s_otu2$Compartment=="Epi"),])
+pca2<-dudi.pco(vegdist(otu2_endo, method="bray"))
+s.class(pca2$li, s_otu2_endo$YSSC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pca3<-dudi.pco(vegdist(otu2_epi, method="bray"))
+s.class(pca3$li, s_otu2_epi$YSSC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca2$li, s_otu2_endo$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca2$li, s_otu2_endo$Site, xax=2, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca3$li, s_otu2_epi$YSSC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca3$li, s_otu2_epi$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca3$li, s_otu2_epi$Site, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+par(mfrow=c(1,2)#
+### endophytes###
+#pca2<-dudi.pco(vegdist(otu2_endo, method="bray"))#
+s.class(pca2$li, s_otu2_endo$Site, xax=2, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Endophytes")#
+### separation ey+erg vs jug+wh##
+#
+### epiphytes###
+#pca3<-dudi.pco(vegdist(otu2_epi, method="bray"))#
+s.class(pca3$li, s_otu2_epi$Site, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Epiphytes")
+par(mfrow=c(1,2)#
+### endophytes###
+#pca2<-dudi.pco(vegdist(otu2_endo, method="bray"))##
+s.class(pca2$li, s_otu2_endo$Site, xax=2, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Endophytes")#
+### separation ey+erg vs jug+wh##
+#
+### epiphytes###
+#pca3<-dudi.pco(vegdist(otu2_epi, method="bray"))##
+s.class(pca3$li, s_otu2_epi$Site, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Epiphytes")
+par(mfrow=c(1,2)#
+### endophytes###
+##pca2<-dudi.pco(vegdist(otu2_endo, method="bray"))###
+#
+s.class(pca2$li, s_otu2_endo$Site, xax=2, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Endophytes")#
+### separation ey+erg vs jug+wh###
+#
+### epiphytes###
+##pca3<-dudi.pco(vegdist(otu2_epi, method="bray"))###
+s.class(pca3$li, s_otu2_epi$Site, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Epiphytes")
+par(mfrow=c(1,2)#
+s.class(pca2$li, s_otu2_endo$Site, xax=2, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Endophytes")
+par(mfrow=c(1,2))#
+### endophytes###
+##pca2<-dudi.pco(vegdist(otu2_endo, method="bray"))###
+#
+s.class(pca2$li, s_otu2_endo$Site, xax=2, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Endophytes")#
+### separation ey+erg vs jug+wh###
+#
+### epiphytes###
+##pca3<-dudi.pco(vegdist(otu2_epi, method="bray"))###
+s.class(pca3$li, s_otu2_epi$Site, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Epiphytes")
+par(mfrow=c(1,2))#
+### endophytes###
+##pca2<-dudi.pco(vegdist(otu2_endo, method="bray"))###
+#
+s.class(pca2$li, s_otu2_endo$Site, xax=2, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3 Endophytes")#
+### separation ey+erg vs jug+wh###
+#
+### epiphytes###
+##pca3<-dudi.pco(vegdist(otu2_epi, method="bray"))###
+s.class(pca3$li, s_otu2_epi$Site, xax=1, yax=3, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3 Epiphytes")
+~/Desktop/Talia_020817/R_tab_OTUnumb_110817.txt
+tab_otu<-read.table("~/Desktop/Talia_020817/R_tab_OTUnumb_110817.txt", h=T, sep='\t')
+tab_otu
+tab_otu<-read.table("~/Desktop/Talia_020817/R_tab_OTUnumb_110817.txt", h=T, sep='\t')#
+YSSC<-interaction(tab_otu$Year,tab_otu$Season,tab_otu$Site,tab_otu$Compartment)#
+SC<-interaction(tab_otu$Site,tab_otu$Compartment)#
+tab_otu1<-cbind(YSSC,SC,tab_otu)#
+#
+tab_otu1$Year<-factor(tab_otu1$Year) ###to make sure he sees year as a factor and not a variable####
+shapiro.test(tab_otu1$otu)#
+plot(density(tab_otu1$otu))
+tab_otu3<-tab_otu1[which(s$Site!="PFN"&s$Site!="K6911"),]
+tab_otu3<-tab_otu1[which(tab_otu1$Site!="PFN"&tab_otu1$Site!="K6911"),]
+aggregate(tab_otu3$otu~tab_otu3$YSSC,FUN=shapiro.test)
+plot(density(tab_otu3$otu))
+shapiro.test(tab_otu3$otu)
+shapiro.test(log(tab_otu3$otu,10)
+)
+shapiro.test(log(tab_otu3$otu,10))
+tab_otu3
+shapiro.test(log(tab_otu3$otu,10))
+plot(density(log(tab_otu3$otu,10)))
+aggregate(tab_otu3$otu~tab_otu3$Compartment,FUN=shapiro.test)
+plot(density(tab_otu3$otu~tab_otu3$Compartment)))
+plot(density(tab_otu3$otu~tab_otu3$Compartment))
+plot(density(tab_otu3[which(tab_otu3$Compartment=="Endo"),]))
+plot(density(tab_otu3[which(tab_otu3$Compartment=="Endo"),]$otu))
+plot(density(tab_otu3[which(tab_otu3$Compartment=="Epi"),]$otu))
+shapiro.test(tab_otu3[which(tab_otu3$Compartment=="Endo"),]$otu)
+shapiro.test(tab_otu3[which(tab_otu3$Compartment=="Epi"),]$otu)
+library(ggplot2)#
+#
+#re order sites# #
+tab_otu1$Site<-factor(tab_otu1$Site, levels=c("JUG","WH","ERG","EY","K6911","PFN"))#
+#
+#rename compartments for nicer graphics#
+levels(tab_otu1$Compartment)<-c("Endophytes", "Epiphytes")#
+#
+###Overall abu#
+plot1<-ggplot(tab_otu1, aes(x=Site, y=otu))+geom_boxplot(aes(colour=factor(Site)),notch=F)+facet_grid(Season~Compartment)+theme(axis.text.x=element_text(angle=90),legend.position="none")+scale_colour_manual(values = c("cyan3","darkorchid1","coral2","deeppink","black","black"))+geom_jitter(width = 0.2, aes(colour=factor(Site)))+labs(y="Alpha diversity (Number of Pseudomonas OTUs)
+)
+>>>
+>>>>>>>
+,
+<
+))))))
+plot1<-ggplot(tab_otu1, aes(x=Site, y=otu))+geom_boxplot(aes(colour=factor(Site)),notch=F)+facet_grid(Season~Compartment)+theme(axis.text.x=element_text(angle=90),legend.position="none")+scale_colour_manual(values = c("cyan3","darkorchid1","coral2","deeppink","black","black"))+geom_jitter(width = 0.2, aes(colour=factor(Site)))+labs(y="Alpha diversity (Number of Pseudomonas OTUs))
+plot1<-ggplot(tab_otu1, aes(x=Site, y=otu))+geom_boxplot(aes(colour=factor(Site)),notch=F)+facet_grid(Season~Compartment)+theme(axis.text.x=element_text(angle=90),legend.position="none")+scale_colour_manual(values = c("cyan3","darkorchid1","coral2","deeppink","black","black"))+geom_jitter(width = 0.2, aes(colour=factor(Site)))+labs(y="Alpha diversity (Number of Pseudomonas OTUs)")
+plot1
+tab_otu1
+plot2<-ggplot(tab_otu1, aes(x=Compartment, y=otu))+geom_boxplot(aes(colour=factor(Compartment)),notch=F)+facet_grid(Season~.)+theme(axis.text.x=element_text(angle=0),legend.position="none")+scale_colour_manual(values = c("chartreuse3","seagreen"))+geom_jitter(width = 0.2, aes(colour=factor(Compartment)))+labs(y="Alpha diversity (Number of Pseudomonas OTUs)")
+plot2
+###put the two plots in one fig#####
+library(gridExtra)#
+library(grid)#
+library(lattice)#
+#
+plot12<-grid.arrange(plot1, plot2, layout_matrix =rbind(c(1,1,1,1,1,2,2)))
+SsC<-interaction(tab_otu1$Season,tab_otu1$Compartment)#
+#
+tab_otu3<-cbind(SsC,tab_otu1)#
+#
+aggregate(tab_otu3$otu~tab_otu3$SsC, FUN=mean)#
+#
+          tab4$SsC tab4$Pseudo#
+1   Fall.Endophytes   -3.616012#
+2 Spring.Endophytes   -3.326358#
+3    Fall.Epiphytes   -2.427978#
+4  Spring.Epiphytes   -2.457694
+wilcox.test(tab_out1$otu~tab_out1$Season)
+tab_otu1
+wilcox.test(tab_otu1$otu~tab_otu1$Season) ## non sig p-value = 0.1706#
+wilcox.test(tab_otu1$otu~tab_otu1$Compartment) ### S
+wilcox.test(tab_otu3$otu[tab_otu3$SsC=="Fall.Endophytes"], tab_otu3$otu[tab_otu3$SsC=="Fall.Epiphytes"])
+wilcox.test(tab_otu3$otu[tab_otu3$SsC=="Spring.Endophytes"], tab_otu3$otu[tab_otu3$SsC=="Spring.Epiphytes"])
+tab<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+s<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/s_Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+#
+tab1<-log((tab+0.000005),10)#
+#
+YSSC<-interaction(s$Year,s$Season,s$Site,s$Compartment)#
+SC<-interaction(s$Site,s$Compartment)#
+tab.s<-cbind(s,YSSC,SC)
+tab2<-cbind(s,YSSC,SC,tab1$Total)#
+colnames(tab2)[16]<-"Pseudo" ###this is super important if not he gets "tab1$Total" from tab 1 and the factors from tab2 so he breaks the links between the variables in tab2#####
+tab2$Year<-factor(tab2$Year) ###to make sure he sees year as a factor and not a variable
+tab_otu<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/otu_Pseudo_dgc99_310717.txt", h=T, sep='\t')#
+s_otu<-read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_Juliana/MiseqData_mothur/BacV3/Excluding_MockComSamples_0617/s_otu_Pseudo_dgc99_310717.txt", h=T, sep='\t')
+otu<-tab_otu[1:51]
+otu
+otu<-tab_otu[1:51]#
+library(ade4)#
+library(vegan)#
+library(wesanderson)
+pca1<-dudi.pco(vegdist(otu, method="bray"), scannf=F)
+YSSC<-interaction(s_otu$Year,s_otu$Season,s_otu$Site,s_otu$Compartment)#
+SC<-interaction(s_otu$Site,s_otu$Compartment)#
+s2<-cbind(s_otu,YSSC,SC)#
+s2$Year<-factor(s2$Year)
+pal<-wes_palette(11, name = "Moonrise3", type = "continuous")
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Royal2", type = "continuous")
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Rushmore", type = "continuous")
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "GrandBudapest", type = "continuous")
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Cavalcanti", type = "continuous")
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Moonrise3", type = "continuous")#
+> par(mfrow=c(2,2))#
+> #
+> s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+> s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+> s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+> s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Moonrise3", type = "continuous")
+pal<-wes_palette(11, name = "Moonrise3", type = "continuous")#
+> par(mfrow=c(2,2))#
+> #
+> s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+> s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+> s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+> s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "GrandBudapest", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Royal2", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Royal2")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Cavalcanti", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Cavalcanti", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink","black","black"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink","black","black"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink","black","black"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("chartreuse3","seagreen"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "Cavalcanti", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink","black","black"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("chartreuse3","seagreen"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(11, name = "GrandBudapest2", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink","black","black"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("chartreuse3","seagreen"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(12, name = "GrandBudapest2", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink","black","black"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("chartreuse3","seagreen"), clabel = 1, sub = "Bacteria V3")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3")
+pal<-wes_palette(12, name = "GrandBudapest2", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("chartreuse3","seagreen"), clabel = 1, sub = "Bacteria V3-Compartment")#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink","black","black"), clabel = 1, sub = "Bacteria V3-Sites")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Year")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-CompartmentXSiteXYear")
+pal<-wes_palette(12, name = "Moonrise3", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("chartreuse3","seagreen"), clabel = 1, sub = "Bacteria V3-Compartment")#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink","black","black"), clabel = 1, sub = "Bacteria V3-Sites")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Year")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-CompartmentXSiteXYear")
+pal<-wes_palette(12, name = "GrandBudapest1", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("chartreuse3","seagreen"), clabel = 1, sub = "Bacteria V3-Compartment")#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink","black","black"), clabel = 1, sub = "Bacteria V3-Sites")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Year")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-CompartmentXSiteXYear")
+pal<-wes_palette(12, name = "GrandBudapest", type = "continuous")#
+#
+par(mfrow=c(2,2))#
+#
+s.class(pca1$li, s2$Compartment, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("chartreuse3","seagreen"), clabel = 1, sub = "Bacteria V3-Compartment")#
+s.class(pca1$li, s2$Site, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=c("cyan3","darkorchid1","coral2","deeppink","black","black"), clabel = 1, sub = "Bacteria V3-Sites")#
+s.class(pca1$li, s2$Year, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-Year")#
+s.class(pca1$li, s2$SC, xax=1, yax=2, cpoint=3, grid=F, addaxes=T, cellipse=1, cstar=1, axesell=0, col=pal, clabel = 1, sub = "Bacteria V3-CompartmentXSiteXYear")
+inertia(pca1)
+rm(list=ls())#
+#
+# ##############################################################
+# # USER INPUT: Provide some information about what sort of table we are working on#
+# ##############################################################
+# # Amplicon region ("BacV3", "BacV5", "Ftrad", "FITS2", "Otrad", "OITS2", etc.)#
+# Region <- "BacV5"#
+# FromWhich <- paste(Region,, sep="")#
+#
+##############################################################
+# Set up the working directory#
+##############################################################
+#
+wdir <- "/Volumes/projects/dep_psl/grp_kemen/working_directory_sam/Sequencing/Time_course/KeystoneTest"#
+#
+setwd(wdir)#
+outputFolder <- paste( wdir, "/Output_Testtables/", sep = "" )#
+#
+##############################################################
+##############################################################
+# Load the OTU table, mapfile and Node Table#
+##############################################################
+#
+#MN <- "./Mapfiles/Mapfile.txt"#
+#Mapfile <- read.table(MN, header=T, row.names=1, comment.char="", sep="\t")#
+#
+NN <- "./Lists/Dec_Jan_1_Node_Table.csv"#
+NodeTable <- read.table(NN, row.names=1, header=T, sep=",")#
+NumNodes <- nrow(NodeTable)#
+#
+BacV5 <- "./OTU_Tables/BV5_OTUtable_mc2_taxa_s2n50_filtered_sub_8000_L6_dec_jan_1.txt"#
+BacV3 <- "./OTU_Tables/BV3_OTUtable_mc2_taxa_s2n50_filtered_sub_8000_L6_dec_jan_1.txt"#
+Ftrad <- "./OTU_Tables/Ftrad_OTUtable_mc2_taxa_s2n50_filtered_sub_3000_L6_dec_jan_1.txt"#
+FITS2 <- "./OTU_Tables/FITS2_OTUtable_mc2_taxa_s2n50_filtered_sub_3000_L6_dec_jan_1.txt"#
+Otrad <- "./OTU_Tables/Otrad_OTUtable_mc2_taxa_s2n50_filtered_sub_2000_L6_dec_jan_1.txt"#
+OITS2 <- "./OTU_Tables/OITS2_OTUtable_mc2_taxa_s2n50_filtered_sub_2000_L6_dec_jan_1.txt"#
+BacV5_OTUtable <- read.table(BacV5,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+BacV3_OTUtable <- read.table(BacV3,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+Ftrad_OTUtable <- read.table(Ftrad,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+FITS2_OTUtable <- read.table(FITS2,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+Otrad_OTUtable <- read.table(Otrad,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+OITS2_OTUtable <- read.table(OITS2,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+#
+BacV5 <- "./Mapfiles/mapfile_BV5_trimmed_dec_jan_1.txt"#
+BacV3 <- "./Mapfiles/mapfile_BV3_trimmed_dec_jan_1.txt"#
+Ftrad <- "./Mapfiles/mapfile_Ftrad_trimmed_dec_jan_1.txt"#
+FITS2 <- "./Mapfiles/mapfile_FITS2_trimmed_dec_jan_1.txt"#
+Otrad <- "./Mapfiles/mapfile_Otrad_trimmed_dec_jan_1.txt"#
+OITS2 <- "./Mapfiles/mapfile_OITS2_trimmed_dec_jan_1.txt"#
+#
+BacV5_Mapfile <- read.table(BacV5, header=T, row.names=1, comment.char="", sep="\t")#
+BacV3_Mapfile <- read.table(BacV3, header=T, row.names=1, comment.char="", sep="\t")#
+Ftrad_Mapfile <- read.table(Ftrad, header=T, row.names=1, comment.char="", sep="\t")#
+FITS2_Mapfile <- read.table(FITS2, header=T, row.names=1, comment.char="", sep="\t")#
+Otrad_Mapfile <- read.table(Otrad, header=T, row.names=1, comment.char="", sep="\t")#
+OITS2_Mapfile <- read.table(OITS2, header=T, row.names=1, comment.char="", sep="\t")#
+#
+##############################################################
+# Sync the OTU tables and mapfiles to one another#
+##############################################################
+#
+BacV5_OTUtable <- BacV5_OTUtable[,-ncol(BacV5_OTUtable)]#
+BacV5_OTUtable <- t(BacV5_OTUtable)#
+reorder_BacV5_Mapfile <- BacV5_Mapfile[match(row.names(BacV5_OTUtable),row.names(BacV5_Mapfile)),]#
+nona_reorder_BacV5_Mapfile <- reorder_BacV5_Mapfile[complete.cases(reorder_BacV5_Mapfile),]#
+reorder_BacV5_OTUtable <- BacV5_OTUtable[match(row.names(nona_reorder_BacV5_Mapfile),row.names(BacV5_OTUtable)),]#
+nona_reorder_BacV5_OTUtable <- reorder_BacV5_OTUtable[complete.cases(reorder_BacV5_OTUtable),]#
+#
+BacV3_OTUtable <- BacV3_OTUtable[,-ncol(BacV3_OTUtable)]#
+BacV3_OTUtable <- t(BacV3_OTUtable)#
+reorder_BacV3_Mapfile <- BacV3_Mapfile[match(row.names(BacV3_OTUtable),row.names(BacV3_Mapfile)),]#
+nona_reorder_BacV3_Mapfile <- reorder_BacV3_Mapfile[complete.cases(reorder_BacV3_Mapfile),]#
+reorder_BacV3_OTUtable <- BacV3_OTUtable[match(row.names(nona_reorder_BacV3_Mapfile),row.names(BacV3_OTUtable)),]#
+nona_reorder_BacV3_OTUtable <- reorder_BacV3_OTUtable[complete.cases(reorder_BacV3_OTUtable),]#
+#
+Ftrad_OTUtable <- Ftrad_OTUtable[,-ncol(Ftrad_OTUtable)]#
+Ftrad_OTUtable <- t(Ftrad_OTUtable)#
+reorder_Ftrad_Mapfile <- Ftrad_Mapfile[match(row.names(Ftrad_OTUtable),row.names(Ftrad_Mapfile)),]#
+nona_reorder_Ftrad_Mapfile <- reorder_Ftrad_Mapfile[complete.cases(reorder_Ftrad_Mapfile),]#
+reorder_Ftrad_OTUtable <- Ftrad_OTUtable[match(row.names(nona_reorder_Ftrad_Mapfile),row.names(Ftrad_OTUtable)),]#
+nona_reorder_Ftrad_OTUtable <- reorder_Ftrad_OTUtable[complete.cases(reorder_Ftrad_OTUtable),]#
+#
+FITS2_OTUtable <- FITS2_OTUtable[,-ncol(FITS2_OTUtable)]#
+FITS2_OTUtable <- t(FITS2_OTUtable)#
+reorder_FITS2_Mapfile <- FITS2_Mapfile[match(row.names(FITS2_OTUtable),row.names(FITS2_Mapfile)),]#
+nona_reorder_FITS2_Mapfile <- reorder_FITS2_Mapfile[complete.cases(reorder_FITS2_Mapfile),]#
+reorder_FITS2_OTUtable <- FITS2_OTUtable[match(row.names(nona_reorder_FITS2_Mapfile),row.names(FITS2_OTUtable)),]#
+nona_reorder_FITS2_OTUtable <- reorder_FITS2_OTUtable[complete.cases(reorder_FITS2_OTUtable),]#
+#
+Otrad_OTUtable <- Otrad_OTUtable[,-ncol(Otrad_OTUtable)]#
+Otrad_OTUtable <- t(Otrad_OTUtable)#
+reorder_Otrad_Mapfile <- Otrad_Mapfile[match(row.names(Otrad_OTUtable),row.names(Otrad_Mapfile)),]#
+nona_reorder_Otrad_Mapfile <- reorder_Otrad_Mapfile[complete.cases(reorder_Otrad_Mapfile),]#
+reorder_Otrad_OTUtable <- Otrad_OTUtable[match(row.names(nona_reorder_Otrad_Mapfile),row.names(Otrad_OTUtable)),]#
+nona_reorder_Otrad_OTUtable <- reorder_Otrad_OTUtable[complete.cases(reorder_Otrad_OTUtable),]#
+#
+OITS2_OTUtable <- OITS2_OTUtable[,-ncol(OITS2_OTUtable)]#
+OITS2_OTUtable <- t(OITS2_OTUtable)#
+reorder_OITS2_Mapfile <- OITS2_Mapfile[match(row.names(OITS2_OTUtable),row.names(OITS2_Mapfile)),]#
+nona_reorder_OITS2_Mapfile <- reorder_OITS2_Mapfile[complete.cases(reorder_OITS2_Mapfile),]#
+reorder_OITS2_OTUtable <- OITS2_OTUtable[match(row.names(nona_reorder_OITS2_Mapfile),row.names(OITS2_OTUtable)),]#
+nona_reorder_OITS2_OTUtable <- reorder_OITS2_OTUtable[complete.cases(reorder_OITS2_OTUtable),]
+NN <- "./Lists/Dec_Jan_1_Node_Table.csv"#
+> NodeTable <- read.table(NN, row.names=1, header=T, sep=",")
+rm(list=ls())#
+#
+# ##############################################################
+# # USER INPUT: Provide some information about what sort of table we are working on#
+# ##############################################################
+# # Amplicon region ("BacV3", "BacV5", "Ftrad", "FITS2", "Otrad", "OITS2", etc.)#
+# Region <- "BacV5"#
+# FromWhich <- paste(Region,, sep="")#
+#
+##############################################################
+# Set up the working directory#
+##############################################################
+#
+wdir <- "/Volumes/projects/dep_psl/grp_kemen/working_directory_sam/Sequencing/Time_course/KeystoneTest"#
+#
+setwd(wdir)#
+outputFolder <- paste( wdir, "/Output_Testtables/", sep = "" )#
+#
+##############################################################
+##############################################################
+# Load the OTU table, mapfile and Node Table#
+##############################################################
+#
+#MN <- "./Mapfiles/Mapfile.txt"#
+#Mapfile <- read.table(MN, header=T, row.names=1, comment.char="", sep="\t")#
+#
+NN <- "./Lists/Dec_Jan_1_Node_Table.csv"#
+NodeTable <- read.table(NN, row.names=1, header=T, sep=",")#
+NumNodes <- nrow(NodeTable)#
+#
+BacV5 <- "./OTU_Tables/BV5_OTUtable_mc2_taxa_s2n50_filtered_sub_8000_L6_dec_jan_1.txt"#
+BacV3 <- "./OTU_Tables/BV3_OTUtable_mc2_taxa_s2n50_filtered_sub_8000_L6_dec_jan_1.txt"#
+Ftrad <- "./OTU_Tables/Ftrad_OTUtable_mc2_taxa_s2n50_filtered_sub_3000_L6_dec_jan_1.txt"#
+FITS2 <- "./OTU_Tables/FITS2_OTUtable_mc2_taxa_s2n50_filtered_sub_3000_L6_dec_jan_1.txt"#
+Otrad <- "./OTU_Tables/Otrad_OTUtable_mc2_taxa_s2n50_filtered_sub_2000_L6_dec_jan_1.txt"#
+OITS2 <- "./OTU_Tables/OITS2_OTUtable_mc2_taxa_s2n50_filtered_sub_2000_L6_dec_jan_1.txt"#
+BacV5_OTUtable <- read.table(BacV5,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+BacV3_OTUtable <- read.table(BacV3,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+Ftrad_OTUtable <- read.table(Ftrad,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+FITS2_OTUtable <- read.table(FITS2,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+Otrad_OTUtable <- read.table(Otrad,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+OITS2_OTUtable <- read.table(OITS2,  header=T, row.names=1, sep="\t", blank.lines.skip = FALSE)#
+#
+BacV5 <- "./Mapfiles/mapfile_BV5_trimmed_dec_jan_1.txt"#
+BacV3 <- "./Mapfiles/mapfile_BV3_trimmed_dec_jan_1.txt"#
+Ftrad <- "./Mapfiles/mapfile_Ftrad_trimmed_dec_jan_1.txt"#
+FITS2 <- "./Mapfiles/mapfile_FITS2_trimmed_dec_jan_1.txt"#
+Otrad <- "./Mapfiles/mapfile_Otrad_trimmed_dec_jan_1.txt"#
+OITS2 <- "./Mapfiles/mapfile_OITS2_trimmed_dec_jan_1.txt"#
+#
+BacV5_Mapfile <- read.table(BacV5, header=T, row.names=1, comment.char="", sep="\t")#
+BacV3_Mapfile <- read.table(BacV3, header=T, row.names=1, comment.char="", sep="\t")#
+Ftrad_Mapfile <- read.table(Ftrad, header=T, row.names=1, comment.char="", sep="\t")#
+FITS2_Mapfile <- read.table(FITS2, header=T, row.names=1, comment.char="", sep="\t")#
+Otrad_Mapfile <- read.table(Otrad, header=T, row.names=1, comment.char="", sep="\t")#
+OITS2_Mapfile <- read.table(OITS2, header=T, row.names=1, comment.char="", sep="\t")#
+#
+##############################################################
+# Sync the OTU tables and mapfiles to one another#
+##############################################################
+#
+BacV5_OTUtable <- BacV5_OTUtable[,-ncol(BacV5_OTUtable)]#
+BacV5_OTUtable <- t(BacV5_OTUtable)#
+reorder_BacV5_Mapfile <- BacV5_Mapfile[match(row.names(BacV5_OTUtable),row.names(BacV5_Mapfile)),]#
+nona_reorder_BacV5_Mapfile <- reorder_BacV5_Mapfile[complete.cases(reorder_BacV5_Mapfile),]#
+reorder_BacV5_OTUtable <- BacV5_OTUtable[match(row.names(nona_reorder_BacV5_Mapfile),row.names(BacV5_OTUtable)),]#
+nona_reorder_BacV5_OTUtable <- reorder_BacV5_OTUtable[complete.cases(reorder_BacV5_OTUtable),]#
+#
+BacV3_OTUtable <- BacV3_OTUtable[,-ncol(BacV3_OTUtable)]#
+BacV3_OTUtable <- t(BacV3_OTUtable)#
+reorder_BacV3_Mapfile <- BacV3_Mapfile[match(row.names(BacV3_OTUtable),row.names(BacV3_Mapfile)),]#
+nona_reorder_BacV3_Mapfile <- reorder_BacV3_Mapfile[complete.cases(reorder_BacV3_Mapfile),]#
+reorder_BacV3_OTUtable <- BacV3_OTUtable[match(row.names(nona_reorder_BacV3_Mapfile),row.names(BacV3_OTUtable)),]#
+nona_reorder_BacV3_OTUtable <- reorder_BacV3_OTUtable[complete.cases(reorder_BacV3_OTUtable),]#
+#
+Ftrad_OTUtable <- Ftrad_OTUtable[,-ncol(Ftrad_OTUtable)]#
+Ftrad_OTUtable <- t(Ftrad_OTUtable)#
+reorder_Ftrad_Mapfile <- Ftrad_Mapfile[match(row.names(Ftrad_OTUtable),row.names(Ftrad_Mapfile)),]#
+nona_reorder_Ftrad_Mapfile <- reorder_Ftrad_Mapfile[complete.cases(reorder_Ftrad_Mapfile),]#
+reorder_Ftrad_OTUtable <- Ftrad_OTUtable[match(row.names(nona_reorder_Ftrad_Mapfile),row.names(Ftrad_OTUtable)),]#
+nona_reorder_Ftrad_OTUtable <- reorder_Ftrad_OTUtable[complete.cases(reorder_Ftrad_OTUtable),]#
+#
+FITS2_OTUtable <- FITS2_OTUtable[,-ncol(FITS2_OTUtable)]#
+FITS2_OTUtable <- t(FITS2_OTUtable)#
+reorder_FITS2_Mapfile <- FITS2_Mapfile[match(row.names(FITS2_OTUtable),row.names(FITS2_Mapfile)),]#
+nona_reorder_FITS2_Mapfile <- reorder_FITS2_Mapfile[complete.cases(reorder_FITS2_Mapfile),]#
+reorder_FITS2_OTUtable <- FITS2_OTUtable[match(row.names(nona_reorder_FITS2_Mapfile),row.names(FITS2_OTUtable)),]#
+nona_reorder_FITS2_OTUtable <- reorder_FITS2_OTUtable[complete.cases(reorder_FITS2_OTUtable),]#
+#
+Otrad_OTUtable <- Otrad_OTUtable[,-ncol(Otrad_OTUtable)]#
+Otrad_OTUtable <- t(Otrad_OTUtable)#
+reorder_Otrad_Mapfile <- Otrad_Mapfile[match(row.names(Otrad_OTUtable),row.names(Otrad_Mapfile)),]#
+nona_reorder_Otrad_Mapfile <- reorder_Otrad_Mapfile[complete.cases(reorder_Otrad_Mapfile),]#
+reorder_Otrad_OTUtable <- Otrad_OTUtable[match(row.names(nona_reorder_Otrad_Mapfile),row.names(Otrad_OTUtable)),]#
+nona_reorder_Otrad_OTUtable <- reorder_Otrad_OTUtable[complete.cases(reorder_Otrad_OTUtable),]#
+#
+OITS2_OTUtable <- OITS2_OTUtable[,-ncol(OITS2_OTUtable)]#
+OITS2_OTUtable <- t(OITS2_OTUtable)#
+reorder_OITS2_Mapfile <- OITS2_Mapfile[match(row.names(OITS2_OTUtable),row.names(OITS2_Mapfile)),]#
+nona_reorder_OITS2_Mapfile <- reorder_OITS2_Mapfile[complete.cases(reorder_OITS2_Mapfile),]#
+reorder_OITS2_OTUtable <- OITS2_OTUtable[match(row.names(nona_reorder_OITS2_Mapfile),row.names(OITS2_OTUtable)),]#
+nona_reorder_OITS2_OTUtable <- reorder_OITS2_OTUtable[complete.cases(reorder_OITS2_OTUtable),]
+/Volumes/projects/dep_psl/grp_kemen/working_directory_sam/Sequencing/Time_course/KeystoneTest/Lists/Dec_Jan_1_Node_Table.csv
+wdir <- "/Volumes/projects/dep_psl/grp_kemen/working_directory_sam/Sequencing/Time_course/KeystoneTest"
+setwd(wdir)#
+outputFolder <- paste( wdir, "/Output_Testtables/", sep = "" )
+NN <- "./Lists/Dec_Jan_1_Node_Table.csv"#
+NodeTable <- read.table(NN, row.names=1, header=T, sep=",")#
+NumNodes <- nrow(NodeTable)
+NodeTable <- read.table("./Lists/Dec_Jan_1_Node_Table.csv", row.names=1, header=T, sep=",")
+NodeTable <- read.table("/Volumes/projects/dep_psl/grp_kemen/working_directory_sam/Sequencing/Time_course/KeystoneTest/Lists/Dec_Jan_1_Node_Table.csv", row.names=1, header=T, sep=",")
+NodeTable <- read.table("~/Volumes/projects/dep_psl/grp_kemen/working_directory_sam/Sequencing/Time_course/KeystoneTest/Lists/Dec_Jan_1_Node_Table.csv", row.names=1, header=T, sep=",")
